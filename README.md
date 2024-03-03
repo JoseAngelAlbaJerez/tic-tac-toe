@@ -15,9 +15,9 @@ El tutorial de Tic-Tac-Toe en React proporciona una excelente introducción a lo
     ```
 
 
-3. **Descarga el Proyecto**: Descarga el proyecto desde CodeSanbox:
+3. **Descarga el Proyecto**: Descarga el proyecto desde CodeSanbox en el boton encima de la lista de directorios:
 
-  ![Codebox](code-sanbox.png).
+  ![Codebox](code-sanbox.png)
 
 4. **Navegación al Directorio del Proyecto**: Cambia al directorio recién creado:
 
