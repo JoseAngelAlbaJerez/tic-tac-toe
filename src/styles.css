@@ -6,7 +6,8 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
-  color: #4c98af;
+  color: #fff;
+  background-color: #984caf;
 }
 
 h1 {
@@ -59,18 +60,19 @@ body {
 
 .square {
   background: #fff;
-  border: 1px solid #4c98af;
+  border: 1px solid #984caf;
   float: left;
-  font-size: 24px;
+  
+  font-size: 100px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 150px; /* Adjusted height */
   margin-right: -1px;
   margin-top: -1px;
-  padding: 0;
+  padding: 0; /* Removed excessive padding */
   text-align: center;
-  color: #4c98af;
-  width: 34px;
+  color: #984caf;
+  width: 150px; /* Adjusted width */
 }
 
 .board-row:after {
@@ -81,23 +83,28 @@ body {
 
 .status {
   margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: larger;
+
 }
 .game {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .game-info {
   margin-left: 20px;
+  margin-top: 15px;
 }
 li {
   font-size: medium;
   font-weight: bold;
 }
 .btn {
-  background-color: #4c98af;
+  background-color: #fff;
   border: none;
-  color: white;
+  color: #984caf;
   border-radius: 4px;
   padding: 15px 12px;
   text-align: center;
