@@ -1,6 +1,9 @@
 ## Tutorial de Tic-Tac-Toe en React: Resumen de Pasos y Dudas
 
+
 #### Jose Angel Alba 2022-0398
+
+![game running](game.png)
 
 El tutorial de Tic-Tac-Toe en React proporciona una excelente introducción a los conceptos básicos de React al construir un juego funcional de Tic-Tac-Toe paso a paso. Aquí está un resumen de los pasos a seguir:
 
